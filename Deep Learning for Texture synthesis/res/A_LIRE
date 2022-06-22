@@ -1,0 +1,11 @@
+res1 présente les résultats issus de notre code avec comme image celle des poivrons, un learning rate de 0.1 et la fonction de perte L2.
+
+res2 présente les résultats issu d'une ré-itération du code qui a produit res1.
+
+res3 est la même application avec un learning rate = 0.01.
+
+res4 -> learning rate = 1. (Trop élevé)
+
+res5 -> L1 loss function, learning rate = 0.1.
+
+res6 -> Batchsize = 1
